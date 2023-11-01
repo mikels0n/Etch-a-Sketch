@@ -24,7 +24,7 @@ body {
     justify-content: center;
     gap: 30px;
     margin-bottom: auto;
-    min-height: 95vh;
+    min-height: 88vh;
 }
 
 .menu {
@@ -40,4 +40,6 @@ body {
     width: 420px;
     height: 420px;
     box-shadow: 0px 0px 10px black;
+    display: flex;
+    flex-wrap: wrap;
 }
